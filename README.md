@@ -1,2 +1,2 @@
 # RaspberryVelvetAnchor
-VPA Modpack
+RVA Modpack
